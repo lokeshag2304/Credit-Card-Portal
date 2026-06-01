@@ -24,6 +24,8 @@ Built with ❤️ using modern web technologies, Splendin empowers users to mana
 
 > ✨ *Smart Banking. Elegant Experience. Secure Future.*
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/79147b70-4d92-43cf-a08f-c2a7995f06f3" />
+
 ---
 
 # ✨ Features
@@ -73,13 +75,14 @@ Built with ❤️ using modern web technologies, Splendin empowers users to mana
 > Add your actual screenshots inside `/assets/`
 
 <p float="left">
-  <img src="./assets/dashboard.png" width="45%" />
-  <img src="./assets/cards.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/53d08ff7-2c40-4ede-9361-a7a8359c6eb8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a86aa8c7-7001-4f45-9042-0155b07b86f1" width="45%" />
 </p>
 
 <p float="left">
-  <img src="./assets/transactions.png" width="45%" />
-  <img src="./assets/profile.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ba97bdc2-d56f-463b-86e3-e881f7e5367b"
+width="45%" />
+  <img src="https://github.com/user-attachments/assets/8bfeba6e-36dc-4614-9266-2e74a7b3d7aa" width="45%" />
 </p>
 
 ---
