@@ -173,8 +173,11 @@ Then create a Pull Request 🚀
 ### Lokesh Agarwal
 
 🔗 GitHub: https://github.com/lokeshag2304
+
 🔗 LinkedIn: https://linkedin.com/in/lokeshagarwal2304
+
 🔗 Instagram: https://instagram.com/_lokesh._.agarwal_
+
 
 ---
 
